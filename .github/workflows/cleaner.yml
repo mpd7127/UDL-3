@@ -47,17 +47,8 @@ jobs:
           # Recreate the folder with a README
           mkdir -p downloads
           cat > downloads/README.md << 'EOF'
-# Downloads
-
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
-
----
-
-*This tool created by [avasam.ir](https://avasam.ir)*
+## empty
+for start go Action tab and use left side workflows
 EOF
 
           # Force add — bypasses .gitignore completely
@@ -88,17 +79,8 @@ EOF
               rm -rf downloads/ 2>/dev/null || true
               mkdir -p downloads
               cat > downloads/README.md << 'EOF'
-# Downloads
-
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
-
----
-
-*This tool created by [avasam.ir](https://avasam.ir)*
+## empty
+for start go Action tab and use left side workflows
 EOF
               git add -f downloads/README.md
               git commit -m "[AVASAM] Clean downloads folder [skip ci]" 2>/dev/null || true
