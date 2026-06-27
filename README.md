@@ -111,3 +111,21 @@ https://ble.ir/UDLbot
 - وب سایت : avasam.ir 
 
 
+
+---
+
+## فایل های دانلود شده
+
+- [app-cleaner-uninstaller](https://github.com/mpd7127/UDL-3/tree/main/downloads/app-cleaner-uninstaller)
+
+---
+
+<!-- AVASAM_HELP -->
+
+## 📦 دانلود همه فایل ها یکجا
+
+**[⬇️ دانلود کل مخزن به صورت ZIP](https://github.com/mpd7127/UDL-3/archive/refs/heads/main.zip)**
+
+---
+
+طراحی شده توسط [آواسام](https://avasam.ir) 💚
