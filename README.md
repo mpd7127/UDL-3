@@ -114,11 +114,6 @@ https://ble.ir/UDLbot
 
 ---
 
-## فایل های دانلود شده
-
-- [app-cleaner-uninstaller](https://github.com/mpd7127/UDL-3/tree/main/downloads/app-cleaner-uninstaller)
-
----
 
 <!-- AVASAM_HELP -->
 
@@ -129,3 +124,12 @@ https://ble.ir/UDLbot
 ---
 
 طراحی شده توسط [آواسام](https://avasam.ir) 💚
+
+---
+
+## فایل های دانلود شده
+
+- [MicrosoftEdge-149.0.4022.98.dmg_platform=Mac&channel=Stable&brand=M101&_](https://github.com/mpd7127/UDL-3/tree/main/downloads/MicrosoftEdge-149.0.4022.98.dmg_platform=Mac&channel=Stable&brand=M101&_)
+- [app-cleaner-uninstaller](https://github.com/mpd7127/UDL-3/tree/main/downloads/app-cleaner-uninstaller)
+
+---

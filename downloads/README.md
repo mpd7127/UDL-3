@@ -1,5 +1,6 @@
 # لیست دانلودها
 
+- [MicrosoftEdge-149.0.4022.98.dmg_platform=Mac&channel=Stable&brand=M101&_](./MicrosoftEdge-149.0.4022.98.dmg_platform%3DMac%26channel%3DStable%26brand%3DM101%26_)
 - [app-cleaner-uninstaller](./app-cleaner-uninstaller)
 
 ---
